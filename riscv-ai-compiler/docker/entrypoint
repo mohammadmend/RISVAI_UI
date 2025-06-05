@@ -1,0 +1,5 @@
+#!/bin/bash
+set -e
+
+# Placeholder entrypoint for riscv-ai-compiler
+exec "$@"
